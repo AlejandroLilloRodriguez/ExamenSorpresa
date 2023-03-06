@@ -1,2 +1,4 @@
-package aplicacion;public class Principal {
+package aplicacion;
+
+public class Principal {
 }
